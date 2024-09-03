@@ -15,7 +15,7 @@ body{
 #header{
 	width: 100%;
 	height: 100vh;
-	background-image: url('B.png');
+	/*background-image: url(image/Bg.png);*/
 	background-size: cover;
 	background-position: center;
 }
@@ -83,9 +83,12 @@ nav ul li a:hover::after{
 	color: #00c4cc;
 }
 .header-text h1{
-	font-size: 4rem;
+	font-size: 3rem;
 	color: #00c4cc;
 	margin: 1.1rem 0 0 0;
+.header-text h1 span {
+            color: white; /* Sets the color of the <span> text to black */
+        }	
 }
 .header-text p{
 	font-size: 1.1rem;
@@ -116,7 +119,7 @@ nav ul li a:hover::after{
 	letter-spacing: 1px;
 }
 .sub-title{
-	font-size: 50px;
+	font-size: 40px;
 	font-weight: 600;
 	color: white;
 
@@ -164,7 +167,7 @@ nav ul li a:hover::after{
 	display: block;
 }
 /*--------------------services----------*/
-#services{
+/*#services{
 	padding: 30px 0;
 
 }
@@ -203,7 +206,7 @@ nav ul li a:hover::after{
  	background: #00c4cc;
  	transform: translateY(-10px);
 
- }
+ }*/
  /*---------------portfolio---------------*/
  #portfolio{
  	padding: 50px 0;
@@ -358,7 +361,7 @@ nav .fa-solid{
 @media only screen and (max-width: 600px){
 	
 	#header{
-		background-image: url(image/B.png);
+		/*background-image: url(image/B.png);*/
 	}
 	.header-text{
 		margin-top: 80%;
