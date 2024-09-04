@@ -86,10 +86,11 @@ nav ul li a:hover::after{
 	font-size: 3rem;
 	color: #00c4cc;
 	margin: 1.1rem 0 0 0;
+}
 .header-text h1 span {
             color: white; /* Sets the color of the <span> text to black */
         }	
-}
+
 .header-text p{
 	font-size: 1.1rem;
 	max-width: 38rem;
