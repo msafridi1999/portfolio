@@ -73,7 +73,8 @@ nav ul li a:hover::after{
 }
 .header-text{
 	margin-top: 20%;
-	font-size: 30px;
+	text-align: center;
+	/*font-size: 30px;*/
 
 }
 .header-text h2{
