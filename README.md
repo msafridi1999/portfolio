@@ -39,6 +39,12 @@ Projects
 
 # 2. Book Recommendation System
 > Description: A system that recommends books to users based on their reading preferences and history, using machine learning algorithms.
+
+# 3. Price_Prediction_Project
+
+Welcome to the Price Prediction Project, an end-to-end solution for predicting prices across multiple categories. This project is divided into two main categories: Electronics Price Prediction and Vehicle Price Prediction, each with individual models tailored to specific types of products.
+
+
 # Contact
 > Feel free to reach out to me via email or connect with me on social media:
 
