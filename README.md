@@ -44,6 +44,10 @@ Projects
 
 Welcome to the Price Prediction Project, an end-to-end solution for predicting prices across multiple categories. This project is divided into two main categories: Electronics Price Prediction and Vehicle Price Prediction, each with individual models tailored to specific types of products.
 
+# Demo
+>You can explore the live demo of this project here:
+
+🔗 Check out the live demo here: [Price Prediction Project on Render](https://price-prediction-project.onrender.com/)
 
 # Contact
 > Feel free to reach out to me via email or connect with me on social media:
