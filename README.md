@@ -55,3 +55,8 @@ Welcome to the Price Prediction Project, an end-to-end solution for predicting p
 Email: mdshahidafridi9060@gmail.com
 Phone: +91-9570268175
 LinkedIn:https://www.linkedin.com/in/md-shahid-afridi-b85a74218
+
+# Demo
+>You can explore the live demo of this portfolio here:
+
+🔗 Check out the live demo here: [MS_Afridi_Portfolio](https://shahidafridi.netlify.app/)
