@@ -32,6 +32,11 @@ Projects
 # 1. Diabetes Prediction Using ML
 > Description: A machine learning model that predicts the likelihood of diabetes in patients based on various health metrics.
 
+# Demo
+>You can explore the live demo of this project here:
+
+🔗 Check out the live demo here: [Diabetes-Prediction-Using-Machine-Learning on Render](https://diabetes-prediction-project-ty5b.onrender.com)
+
 # 2. Book Recommendation System
 > Description: A system that recommends books to users based on their reading preferences and history, using machine learning algorithms.
 # Contact
